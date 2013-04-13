@@ -1,0 +1,11 @@
+{
+    "name": "audio-click",
+    "description": "Add a soft click sound to click, tap, and mousedown events.",
+    "homepage": "https://github.com/awatson1978/audio-click",
+    "author": "Abigail Watson  (http://www.pentasyllabic.com)",
+    "version": "0.0.1",
+    "git": "https://github.com/awatson1978/audio-click.git"
+}
+
+
+
