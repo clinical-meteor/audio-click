@@ -1,7 +1,7 @@
 audio-click is a Meteorite package for adding audio UI elements to a Meteor application.  
 
 ------------------------
-### Installation
+## Installation
 
 First, install the audio-click package from the command line, like so:
 
@@ -10,7 +10,7 @@ mrt add audio-click
 ````
 
 ------------------------
-# Data/Document Model
+## Data/Document Model
 
 Second, add the audioSoundsTemplate to your application, which adds all the necessary audio objects to the DOM.  
 
@@ -19,7 +19,7 @@ Second, add the audioSoundsTemplate to your application, which adds all the nece
 ````
 
 ------------------------
-# Controllers
+## Controllers
 
 Third, add the following line to any event you want to play a click. 
 ````
