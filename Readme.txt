@@ -1,5 +1,4 @@
 
-
 // add the audioSoundsTemplate to your application
     {{> audioSoundsTemplate }}
 
