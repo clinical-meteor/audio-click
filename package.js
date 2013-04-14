@@ -18,5 +18,5 @@ Package.on_use(function (api) {
     api.add_files('audio.css', "client");
 
     // javascript files need to be added last
-    api.add_files('audio.js', "client");
+    //api.add_files('audio.js', "client");
 });
