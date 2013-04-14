@@ -1,7 +1,7 @@
 //TODO:  Create audio package; publish to Atmosphere
 
 Package.describe({
-  summary: "Adds an audio-pkg sound whenever someone clicks a list item."
+  summary: "Add a soft audio click to your user interface."
 });
 
 
