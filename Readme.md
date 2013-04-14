@@ -9,13 +9,13 @@ First, install athe audio-click package.
 mrt add audio-click
 ````
 
-Second, add the audioSoundsTemplate to your application, which adds all the necessary audio objects to the data model.  
+Second, add the audioSoundsTemplate to your application, which adds all the necessary audio objects to the DOM (ie. the Model).  
 
 ````
     {{> audioSoundsTemplate }}
 ````
 
-Third, add the following line to any event you want to play a click.
+Third, add the following line to any event you want to play a click.  (ie add it to the Controller)
 ````
     document.getElementById('clickAudioClip').play();  
 ````
