@@ -1,7 +1,7 @@
 audio-click is a Meteorite package for adding audio UI elements to a Meteor application.  
 
 ------------------------
-# Installation
+## Installation
 
 First, install the audio-click package from the command line, like so:
 
