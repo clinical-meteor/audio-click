@@ -3,9 +3,9 @@
 
 
 // then trigger the audio clip in your events, like so:  
-    Template.packageTestTemplate.events({
-        'click': function(evt){
-            document.getElementById('clickAudioClip').play();
-        }
-    });
+    Template.packageTestTemplate.events({  
+        'click': function(evt){  
+            document.getElementById('clickAudioClip').play();  
+        }  
+    });  
 
