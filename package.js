@@ -1,7 +1,7 @@
 //TODO:  Create audio package; publish to Atmosphere
 
 Package.describe({
-  summary: "Adds an audio-pkg sound whenever someone clicks a list item."
+  summary: "Add a soft audio click to your user interface."
 });
 
 
@@ -18,5 +18,5 @@ Package.on_use(function (api) {
     api.add_files('audio.css', "client");
 
     // javascript files need to be added last
-    api.add_files('audio.js', "client");
+    //api.add_files('audio.js', "client");
 });

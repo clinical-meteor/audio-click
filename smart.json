@@ -1,6 +1,6 @@
 {
     "name": "audio-click",
-    "description": "Add a soft click sound events.",
+    "description": "Add a soft audio click to your user interface.  Works on any event:  clicks, taps, mousedown, etc.",
     "homepage": "https://github.com/awatson1978/audio-click",
     "author": "Abigail Watson  (http://www.pentasyllabic.com)",
     "version": "0.1.0",
