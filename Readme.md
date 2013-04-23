@@ -41,6 +41,5 @@ For instance, you might have a reactive template wired up like this:
 ------------------------
 ### License
 
-MIT License.  
-Use as you wish, including for commercial purposes.  
+MIT License. Use as you wish, including for commercial purposes.  
 See license.mit.txt for full details.  
