@@ -1,3 +1,6 @@
+audio-click
+=========================
+
 **audio-click** is a Meteorite package for adding audio UI elements to a Meteor application.  It's not intended to be a full featured audio package, and is only intended to wire up simple clicks and beeps to buttons and other UI elements.  Currently supports adding sound to any javascript event, including clicks, taps, mouseup, mousedown, etc.
 
 =========================
