@@ -1,6 +1,6 @@
 **audio-click** is a Meteorite package for adding audio UI elements to a Meteor application.  It's not intended to be a full featured audio package, and is only intended to wire up simple clicks and beeps to buttons and other UI elements.  Currently supports adding sound to any javascript event, including clicks, taps, mouseup, mousedown, etc.
 
-------------------------
+=========================
 ### Installation
 
 First, install the audio-click package from the command line, like so:
@@ -9,7 +9,7 @@ First, install the audio-click package from the command line, like so:
 mrt add audio-click
 ````
 
-------------------------
+=========================
 ### Data/Document Model
 
 Second, add the audioSoundsTemplate to your application, which adds all the necessary audio objects to the DOM.  
@@ -18,7 +18,7 @@ Second, add the audioSoundsTemplate to your application, which adds all the nece
     {{> audioSoundsTemplate }}
 ````
 
-------------------------
+=========================
 ### Controllers
 
 Third, add the following line to any event you want to play a click. 
@@ -38,15 +38,9 @@ For instance, you might have a reactive template wired up like this:
     });  
 ````
 
-------------------------
+=========================
 ### License
 
 MIT License. Use as you wish, including for commercial purposes.  
-See [license.mit.txt](license.mit.txt) for full details.  
 
-------------------------
-### Support
-Found this package to be useful?  Consider tipping the package maintainer for their time!  
-
-[![Support via Gittip](https://raw.github.com/gittip/www.gittip.com/master/www/assets/gittip.png)](https://www.gittip.com/awatson1978/)  
 
