@@ -42,8 +42,14 @@ For instance, you might have a reactive template wired up like this:
 ````
 
 =========================
-### License
+#### Links
+
+https://forums.meteor.com/t/storing-small-audio-files/18912
+https://forums.meteor.com/t/script-doesnt-load-web-audio-buffers-properly-on--id-routes/15270
+
+
+=========================
+#### License
 
 MIT License. Use as you wish, including for commercial purposes.  
-
 
