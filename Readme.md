@@ -51,5 +51,5 @@ https://forums.meteor.com/t/script-doesnt-load-web-audio-buffers-properly-on--id
 =========================
 #### License
 
-MIT License. Use as you wish, including for commercial purposes.  
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
 
